@@ -1,2 +1,6 @@
 # SQL-projects
-In this file, I applied SQL techniques to bring up the solutions in Supply Chain and Commodities Price Solution
+## 1. Background and Overview
+## 2. Data Structure Overview
+## 3. Executive Summary
+## 4. Insights Deep Dive
+## 5. Recommendations
